@@ -20,3 +20,10 @@ WebmToMp3.py --webm_path "/home/music/webm_files"
 WebmToMp3.py --webm_path "/home/music/webm_files" --mp3_path "/home/music/non_existent_folder"
 # It will create the non-existent path automatically
 ```
+
+## Run as Ui
+Go to your favourite shell app and execute this
+```bash
+WebmToMp3.py
+# It will create the non-existent path automatically
+```
